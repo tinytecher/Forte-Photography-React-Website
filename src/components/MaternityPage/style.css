@@ -1,0 +1,31 @@
+.maternity-container > div > div {
+	background-color: rgb(98, 182, 151);
+	border: 1px solid black;
+	margin: 2px;
+	height: 1000px;
+}
+
+.maternity-container {
+	display: flex;
+	justify-content: center;
+	/* height: 700px; */
+	flex-wrap: wrap;
+	width: 95vw;
+	margin: 0 auto;
+}
+
+.maternity-col1,
+.maternity-col2,
+.maternity-col3 {
+	display: flex;
+	flex-direction: column;
+	width: 350px;
+	height: 900px;
+	margin: 4px;
+	row-gap: 4px;
+}
+
+.maternity1 {
+	width: 350px;
+	height: 300px;
+}
