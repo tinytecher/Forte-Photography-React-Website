@@ -2,6 +2,7 @@
 
 Working on a React website for my sisters photography business.
 
+NOTES
 - Tech Used:
 - MVP:
 - Stretch Goals:
